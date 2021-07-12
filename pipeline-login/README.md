@@ -1,3 +1,8 @@
-# ReactLoginRegisterUI
+# A simple login page built with pipeline-ui components
 
-[React Bootstrap Login & Register UI Templates](https://www.remotestack.io/react-bootstrap-login-register-ui-templates/)
+## Test it out!
+
+```bash
+npm install
+npm run start
+```
